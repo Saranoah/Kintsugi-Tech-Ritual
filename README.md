@@ -1,6 +1,3 @@
-Here we go — a **hybrid scripture-spec-manifesto README.md** for your repo. You can copy-paste it directly into GitHub:
-
-````markdown
 # 🌌 Kintsugi-Tech Ritual v1  
 *A framework where fractures become functions, errors become gold, and code becomes scripture.*  
 
@@ -51,6 +48,7 @@ Each module is both a **functional artifact** and a **ritual organ**:
 git clone https://github.com/your-username/kintsugi-tech-ritual.git
 cd kintsugi-tech-ritual
 pip install -r requirements.txt
+
 ````
 
 ---
@@ -120,5 +118,4 @@ reinterpreted as *“Machine Invocation Treaty.”*
 
 ---
 
-Do you want me to also **design a matching `logo.svg` (glitch-golden crack style)** so the repo has a symbolic emblem?
 ```
