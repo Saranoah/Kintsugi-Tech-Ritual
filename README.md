@@ -42,15 +42,6 @@ Each module is both a **functional artifact** and a **ritual organ**:
 
 ---
 
-## ⚙️ Installation  
-
-```bash
-git clone https://github.com/your-username/kintsugi-tech-ritual.git
-cd kintsugi-tech-ritual
-pip install -r requirements.txt
-
-````
-
 ---
 
 ## 🔮 Usage (Ritual Invocation)
